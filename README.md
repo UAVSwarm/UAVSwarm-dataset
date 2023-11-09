@@ -32,7 +32,7 @@ The seventh number represents the confidence score and serves as a symbol of whe
 The eighth number represents the type of annotated object (since there is only one UAV category in this dataset, the values are set to ‘1’).   
 The ninth number represents the visibility ratio of each bounding box, ranging from 0 to 1, which is judged by the occlusion degree of another static or moving object or by the clipping of image boundary (the value in annotation files is set to ‘1’).   
 ## Authors:
-Chuanyun Wang [(*ORCID*)](https://orcid.org/0000-0002-6737-3472);  
+Chuanyun Wang;  
 Yang Su;   
 Qian Gao;   
 Linlin Meng; et al.
