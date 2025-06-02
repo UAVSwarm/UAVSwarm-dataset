@@ -37,6 +37,6 @@ Yang Su;
 Qian Gao;   
 Linlin Meng; et al.
 ## Citation:
-1. [Chuanyun Wang; Yang Su; Jingjing Wang; et al. UAVSwarm Dataset: An Unmanned Aerial Vehicle Swarm Dataset for Multiple Object Tracking. Remote Sensing. 2022, 14, 2601.](https://www.mdpi.com/2072-4292/14/11/2601)
-2. [Chuanyun Wang; Linlin Meng; Qian Gao; et al. A Lightweight UAV Swarm Detection Method Integrated Attention Mechanism. Drones 2023, 7, 13.](https://www.mdpi.com/2504-446X/7/1/13)
-3. [Chuanyun Wang; Yang Su; Linlin Wang; et al. Multiple object continuous robust tracking algorithm for Anti-UAV swarm.Acta Aeronautica et Astronautica Sinica, doi: 10.7527/S1000-6893.2023.29017(in Chinese).](https://hkxb.buaa.edu.cn/CN/10.7527/S1000-6893.2023.29017)
+1. [Chuanyun Wang; Yang Su; Jingjing Wang; et al. UAVSwarm Dataset: An Unmanned Aerial Vehicle Swarm Dataset for Multiple Object Tracking[J]. Remote Sensing. 2022, 14, 2601.](https://www.mdpi.com/2072-4292/14/11/2601)
+2. [Chuanyun Wang; Linlin Meng; Qian Gao; et al. A Lightweight UAV Swarm Detection Method Integrated Attention Mechanism[J]. Drones 2023, 7, 13.](https://www.mdpi.com/2504-446X/7/1/13)
+3. [Chuanyun Wang; Yang Su; Linlin Wang; et al. Multiple object continuous robust tracking algorithm for Anti-UAV swarm[J]. Acta Aeronautica et Astronautica Sinica, 2024, 45(7): 329017-329017.(in Chinese)](https://hkxb.buaa.edu.cn/CN/10.7527/S1000-6893.2023.29017)
